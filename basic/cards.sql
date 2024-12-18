@@ -34,7 +34,7 @@ WHERE nome = 'caderno' ALLOW FILTERING;
 --delete
 
 DELETE FROM produto
-WHERE id = ;
+WHERE id = 59d3b792-4b06-4ea3-b855-cc7e8feb82f0;
 
 --drop
 DROP KEYSPACE loja;
